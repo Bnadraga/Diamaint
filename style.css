@@ -1,0 +1,16 @@
+:root{
+    --violet-back-menu: #EDECF6;
+
+}
+
+
+.container{
+    width: 1900px;
+    padding-left: 13px;
+    padding-right: 13px;
+    margin: 0 auto;
+}
+
+.header{
+    background-color: var(--violet-back-menu);
+}
