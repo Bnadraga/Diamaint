@@ -1,5 +1,5 @@
 :root{
-    --violet-back-menu: #EDECF6;
+    --header-background: #1900ff;
 
 }
 
@@ -10,7 +10,6 @@
     padding-right: 13px;
     margin: 0 auto;
 }
-
 .header{
-    background-color: var(--violet-back-menu);
+    background-color: var(--header-background);
 }
